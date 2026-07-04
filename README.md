@@ -23,6 +23,9 @@ fellowship, and professional applications.
 - [Evidence Index](docs/02_evidence_index.md)
 - [Skills Matrix](docs/03_skills_matrix.md)
 - [Name Clarification Note](docs/04_name_clarification_note.md)
+- [Bachelor's Degree in Computing](reports/education/bachelor_computing_ufc.md)
+- [Master's Program in Computer Science - Incomplete](reports/education/incomplete_masters_computer_science_ufc.md)
+- [Freestanding Physics Coursework](reports/education/freestanding_physics_coursework_2026.md)
 - [Student Association](reports/leadership/student_association.md)
 - [Academic Excellence Support](reports/leadership/academic_excellence_support.md)
 - [Science Without Borders - Korea](reports/international/science_without_borders_korea.md)
@@ -31,6 +34,9 @@ fellowship, and professional applications.
 - [Augmented Reality for Remote Teaching of Manual Tasks](reports/research/augmented_reality_manual_tasks_deaf_learners.md)
 - [ARTRADE - Augmented Reality Training Arcade](reports/research/artrade_augmented_reality_training_arcade.md)
 - [Lenovo Diagnostics](reports/industry/lenovo_diagnostics_ldiag.md)
+- [King Game Development](reports/industry/king_game_development.md)
+- [Peer-Reviewed Publications](reports/publications/peer_reviewed_publications.md)
+- [Game Awards and Recognitions](reports/awards/game_awards_and_recognitions.md)
 
 ## Evidence Policy
 

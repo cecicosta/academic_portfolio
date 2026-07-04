@@ -62,8 +62,10 @@ Local evidence:
 
 Evidence limitations:
 
-- The article PDF confirms title, authorship, abstract, and experiment context,
-  but the venue is not visible in the extracted text.
+- The article PDF confirms title, authorship, abstract, and experiment context.
+- The publication overview source note lists the venue as SBIE / CBIE 2018 and
+  DOI `10.5753/cbie.sbie.2018.1123`; verify/archive the public page before
+  final external use.
 - The article lists an earlier name variant and UFC affiliation.
 - Role-specific responsibilities are currently supported by the local source
   note; add a certificate, recommendation letter, or project record if available.

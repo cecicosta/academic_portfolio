@@ -13,6 +13,8 @@ portfolio reports.
   support drafting. These are not primary official records.
 - `publications/` - publication PDFs or citation records to add later.
 - `manuals/` - product manuals and technical manuals to add later.
+- `coursework/` - coursework artifacts, project reports, and assignments that
+  support academic preparation but are not official transcripts.
 - `certificates/` - certificates and image/PDF credentials.
 
 ## Handling Notes
