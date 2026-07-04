@@ -12,6 +12,8 @@ Federal University of Ceara.
 The project involved hardware diagnostics, automated validation, diagnostic test
 implementation, and maintenance of software supporting Lenovo computer systems.
 
+Period of participation: 2014-2016.
+
 ## Project Context
 
 Working records identify the project as a university-industry R&D initiative
@@ -75,6 +77,8 @@ Local evidence:
 
 Evidence limitations:
 
+- The 2014-2016 period is based on user-provided clarification and should be
+  tied to primary evidence when available.
 - The recommendation letter is scanned and needs OCR/manual review.
 - The FCPC annual report and Lenovo Diagnostics Linux Bootable User Guide
   mentioned in the overview are not yet present in the repository.

@@ -47,7 +47,7 @@ recorded on 2015-01-19
 
 **Federal University of Ceara (UFC), Brazil**  
 Master's Program in Computer Science, field of research: Information Systems  
-March 2018 to August 2020; enrollment discontinued
+2018-2019; enrollment discontinued
 
 - Completed graduate coursework in distributed systems, communication networks,
   data structures, mobile and wireless networks, performance analysis of
@@ -80,9 +80,9 @@ Spring 2026
 ## Professional Experience
 
 **Software Developer, King**  
-Approximately 2020-present; exact dates and title history to confirm
+2019-present; exact title history to confirm
 
-- Worked in professional game development for approximately the last six years.
+- Worked in professional game development since 2019.
 - Initially focused on developing game features.
 - Later moved toward platform-specific code and engine implementation.
 - This period represents the primary professional activity between earlier
@@ -125,7 +125,7 @@ LEAD / State University of Ceara research context
 
 **Software Developer, Lenovo Diagnostics / LDiag**  
 Federal University of Ceara; LSBD; Lenovo industrial R&D context  
-Reported period: 2014-2020; exact individual participation dates to confirm
+2014-2016
 
 - Developed and maintained diagnostic and validation routines for computer
   hardware components.
@@ -268,10 +268,8 @@ awards in an external CV.
 Remove this section before external submission.
 
 - Add contact details, location, links, and preferred CV header format.
-- Confirm exact Lenovo Diagnostics participation dates.
 - Confirm exact Student Association dates.
-- Confirm exact King dates, title history, and any discloseable platform/engine
-  details.
+- Confirm King title history and any discloseable platform/engine details.
 - Confirm whether each target institution accepts IELTS Online and the 2025 test
   date.
 - Add local PDF or formal citation capture for the Tardigrade publication.

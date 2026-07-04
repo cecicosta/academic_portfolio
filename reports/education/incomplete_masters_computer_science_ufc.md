@@ -6,9 +6,9 @@ Last updated: 2026-07-04
 ## Summary
 
 Cecilia Lis Costa was enrolled in the Master's Program in Computer Science at
-the Federal University of Ceara. The translated graduate transcript records the
-status as enrollment discontinued, with the reason for exit listed as official
-discontinuation of studies.
+the Federal University of Ceara from 2018 to 2019. The translated graduate
+transcript records the status as enrollment discontinued, with the reason for
+exit listed as official discontinuation of studies.
 
 This experience should be described carefully: it provides evidence of graduate
 admission and completed graduate-level coursework, but it is not a completed
@@ -23,7 +23,7 @@ master's degree.
 - Curriculum: 2015.1
 - Admission procedure: selection process
 - Initial month/year: March 2018
-- Exit month/year: August 2020
+- Academic participation period: 2018-2019
 - Status: enrollment discontinued
 - Reason for exit: official discontinuation of studies
 - Final average grade: 7.45
@@ -75,6 +75,8 @@ Local evidence:
 Evidence limitations:
 
 - The current evidence is a translated transcript issued on 4 July 2026.
+- The 2018-2019 period is based on user-provided clarification and should be
+  preserved over earlier working notes.
 - No thesis, dissertation proposal, qualifying examination, or language
   proficiency completion is recorded in the transcript.
 - If explaining the discontinuation in an application, use a concise factual

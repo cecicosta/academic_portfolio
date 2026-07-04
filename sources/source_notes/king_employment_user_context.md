@@ -4,9 +4,9 @@ Last updated: 2026-07-04
 
 User-provided context:
 
-Cecilia Lis Costa has worked at King for approximately the last six years as a
-developer. The initial role focus was developing game features, later moving
-toward platform-specific code and engine implementation.
+Cecilia Lis Costa has worked at King since 2019 as a developer. The initial
+role focus was developing game features, later moving toward platform-specific
+code and engine implementation.
 
 The user also noted that there were no other academically significant activities
 during this professional period until starting the 2026 freestanding physics

@@ -5,9 +5,9 @@ Last updated: 2026-07-04
 
 ## Summary
 
-Cecilia Lis Costa reports working at King for approximately the last six years
-as a software developer. The role initially focused on developing game features
-and later moved toward platform-specific code and engine implementation.
+Cecilia Lis Costa reports working at King since 2019 as a software developer.
+The role initially focused on developing game features and later moved toward
+platform-specific code and engine implementation.
 
 This experience is important professional context for the portfolio because it
 explains the recent period of full-time industry work between earlier academic
@@ -17,8 +17,9 @@ freestanding physics courses.
 ## Professional Context
 
 The role is currently represented as professional software development in the
-games industry, with a progression from gameplay or game-feature implementation
-toward lower-level platform and engine-oriented work.
+games industry from 2019 to the present, with a progression from gameplay or
+game-feature implementation toward lower-level platform and engine-oriented
+work.
 
 Exact dates, title history, team names, shipped features, platforms, and engine
 details should be added only if they can be disclosed and supported by evidence.
