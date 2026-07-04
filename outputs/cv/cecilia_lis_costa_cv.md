@@ -1,63 +1,33 @@
 # Cecilia Lis Costa
 
-Academic and Professional CV Draft  
-Generated from repository evidence: 2026-07-04
+Academic and Professional CV Draft
 
-Contact details: to add  
-Location: to add  
+Compiled from repository evidence: 2026-07-04
+
+Contact details: to add
+Location: to add
 Links: to add
 
 ## Profile
 
 Computer Science professional with experience in academic research, industrial
 R&D, research software development, augmented reality, computer vision,
-interactive systems, accessibility-oriented software, and hardware diagnostics.
-Project experience includes university research, industry-partnered R&D,
-international academic mobility, peer-reviewed publications, educational game
-projects, indie game development co-founding, professional game development,
-platform-specific engineering, and academic leadership. Recent freestanding
-physics coursework supports transition toward graduate study in quantum
-technologies.
+interactive systems, accessibility-oriented software, game development,
+platform-specific engineering, engine implementation, and hardware diagnostics.
+The portfolio combines a completed Bachelor's Degree in Computing, incomplete
+master's-level Computer Science study, peer-reviewed publications,
+international academic mobility, professional software development at King, and
+recent freestanding coursework in materials physics and computational physics.
 
-This CV is compiled from the portfolio repository and should be reviewed against
-official records before external submission.
+This CV is compiled from the portfolio repository. It is a working draft and
+should be reviewed against official records before external submission.
 
-## Education
+## Education and Coursework
 
-**IFCE - Fortaleza Campus, Brazil**  
-Incomplete undergraduate study in Physics  
-Admission: 2007/1; incomplete/no diploma
+**KTH Royal Institute of Technology, Sweden**
 
-- Completed early coursework in calculus, general physics, general chemistry,
-  analytical geometry and linear algebra, communication, history of education,
-  and instrumental English.
-- This was incomplete undergraduate study and should not be presented as a
-  completed degree.
+Freestanding course: Materials Physics
 
-**Federal University of Ceara (UFC), Brazil**  
-Bachelor's Degree in Computing / Bachelor of Computing  
-2009.1 to 2014.2; program completion recorded on 2015-01-15; degree conferral
-recorded on 2015-01-19
-
-- Program completed.
-- Academic Performance Index, general: 7.152.
-- Relevant coursework included calculus, linear algebra, discrete mathematics,
-  algorithms, data structures, computer architecture, databases, artificial
-  intelligence, theory of computation, operating systems, compilers, computer
-  graphics, human-machine interaction, and information systems.
-
-**Federal University of Ceara (UFC), Brazil**  
-Master's Program in Computer Science, field of research: Information Systems  
-2018-2019; enrollment discontinued
-
-- Completed graduate coursework in distributed systems, communication networks,
-  data structures, mobile and wireless networks, performance analysis of
-  computer systems, and mobile and ubiquitous computing.
-- Final average grade recorded in transcript: 7.45.
-- This was incomplete graduate study, not a completed master's degree.
-
-**KTH Royal Institute of Technology, Sweden**  
-Freestanding course: Materials Physics  
 Spring 2026
 
 - Completed 7.5 hp / ECTS.
@@ -66,8 +36,10 @@ Spring 2026
   semiconductors, magnetism, quantum mechanical models of materials, and
   atom-level approaches to materials properties.
 
-**Malmo University, Sweden**  
-Freestanding course: Computational Physics: Introductory Course  
+**Malmo University, Sweden**
+
+Freestanding course: Computational Physics: Introductory Course
+
 Spring 2026
 
 - Completed 7.5 hp / ECTS.
@@ -78,9 +50,48 @@ Spring 2026
   radial wave functions, eigenvalue problems, and computational approximation of
   atomic systems.
 
-## Professional Experience
+**Federal University of Ceara (UFC), Brazil**
 
-**Software Developer, King**  
+Master's Program in Computer Science, field of research: Information Systems
+
+2018-2019; enrollment discontinued
+
+- Completed graduate coursework in distributed systems, communication networks,
+  data structures, mobile and wireless networks, performance analysis of
+  computer systems, and mobile and ubiquitous computing.
+- Final average grade recorded in transcript: 7.45.
+- This was incomplete graduate study, not a completed master's degree.
+
+**Federal University of Ceara (UFC), Brazil**
+
+Bachelor's Degree in Computing / Bachelor of Computing
+
+2009.1 to 2014.2; program completion recorded on 2015-01-15; degree conferral
+recorded on 2015-01-19
+
+- Program completed.
+- Academic Performance Index, general: 7.152.
+- Relevant coursework included calculus, linear algebra, discrete mathematics,
+  algorithms, data structures, computer architecture, databases, artificial
+  intelligence, theory of computation, operating systems, compilers, computer
+  graphics, human-machine interaction, and information systems.
+
+**IFCE - Fortaleza Campus, Brazil**
+
+Incomplete undergraduate study in Physics
+
+Admission: 2007/1; incomplete/no diploma
+
+- Completed early coursework in calculus, general physics, general chemistry,
+  analytical geometry and linear algebra, communication, history of education,
+  and instrumental English.
+- This was incomplete undergraduate study and should not be presented as a
+  completed degree.
+
+## Professional and Independent Development Experience
+
+**Software Developer, King**
+
 2019-present; exact title history to confirm
 
 - Worked in professional game development since 2019.
@@ -93,11 +104,12 @@ Spring 2026
   primary employment evidence before external submission.
 
 **Co-founder, Supernova indie game development team**
+
 2012-2016; exact continuity, role dates, and public evidence to confirm
 
 - Co-founded Supernova, an independent game development team.
-- Contributed to educational game projects including Carcara - Asas da Justica
-  and Vetor, and to Heroes Rush Tactics.
+- Contributed to independent and educational game projects including Heroes
+  Rush Tactics, Carcara - Asas da Justica, and Vetor.
 - Heroes Rush Tactics was reportedly presented at the Brazilian Symposium on
   Games and Digital Entertainment (SBGames) in 2012.
 - Supernova project recognitions included INOVApps Program selections for
@@ -107,14 +119,16 @@ Spring 2026
   da Justica being a finalist for Best Educational or Social Impact Game at
   Brazil's Independent Games Festival in 2016.
 - Evidence note: current repository evidence combines a local awards source note
-  with user-provided Supernova role context; add primary role evidence before
-  external submission.
+  with user-provided Supernova role context. Add primary role and project
+  evidence before external submission.
 
 ## Research and R&D Experience
 
-**Lead Researcher and Software Developer, ARTRADE - Augmented Reality Training Arcade**  
+**Lead Researcher and Software Developer, ARTRADE - Augmented Reality Training Arcade**
+
 LEAD - Laboratory for Distance Education for People with Disabilities; Dell
-Technologies industry partnership  
+Technologies industry partnership
+
 2018-2019
 
 - Led research and software development for an augmented reality training
@@ -128,8 +142,10 @@ Technologies industry partnership
 - Evidence note: current repository evidence is a local source note; additional
   primary project evidence should be added if available.
 
-**Software Developer and Research Assistant, Augmented Reality for Remote Teaching of Manual Tasks**  
-LEAD / State University of Ceara research context  
+**Software Developer and Research Assistant, Augmented Reality for Remote Teaching of Manual Tasks**
+
+LEAD / State University of Ceara research context
+
 2017
 
 - Developed software components for an augmented reality learning object used in
@@ -142,8 +158,10 @@ LEAD / State University of Ceara research context
 - Contributed as a coauthor to a publication on interaction with an augmented
   reality application for distance teaching of manual tasks.
 
-**Software Developer, Lenovo Diagnostics / LDiag**  
-Federal University of Ceara; LSBD; Lenovo industrial R&D context  
+**Software Developer, Lenovo Diagnostics / LDiag**
+
+Federal University of Ceara; LSBD; Lenovo industrial R&D context
+
 2014-2016
 
 - Developed and maintained diagnostic and validation routines for computer
@@ -157,8 +175,10 @@ Federal University of Ceara; LSBD; Lenovo industrial R&D context
 - Communicated with Lenovo partners on technical requirements, progress, and
   issue resolution.
 
-**Software Developer, Traffic Monitoring in Video Sequences**  
-Federal University of Ceara  
+**Software Developer, Traffic Monitoring in Video Sequences**
+
+Federal University of Ceara
+
 2014-03-25 to 2014-06-20
 
 - Developed C and C++ software for computer vision and image processing applied
@@ -168,8 +188,10 @@ Federal University of Ceara
 - Supported research prototype development and experimental validation in a
   multidisciplinary traffic-monitoring context.
 
-**Undergraduate Software Developer, Virtual Shooting Training System / Projeto Tiro Virtual**  
-Federal University of Ceara  
+**Undergraduate Software Developer, Virtual Shooting Training System / Projeto Tiro Virtual**
+
+Federal University of Ceara
+
 2010-2013
 
 - Worked on a virtual firearms training simulator combining interactive video,
@@ -184,8 +206,10 @@ Federal University of Ceara
 
 ## International Experience
 
-**Science Without Borders - Academic Exchange, South Korea**  
-Federal University of Ceara; Sungkyunkwan University; Soongsil University  
+**Science Without Borders - Academic Exchange, South Korea**
+
+Federal University of Ceara; Sungkyunkwan University; Soongsil University
+
 Second semester 2013 to first semester 2014
 
 - Completed language preparation at Sungkyunkwan University in Suwon.
@@ -194,8 +218,10 @@ Second semester 2013 to first semester 2014
 - Coursework included technology, mathematics, computing, digital media, and
   communication-related subjects.
 
-**Intern, StyleWiki Corporation**  
-South Korea  
+**Intern, StyleWiki Corporation**
+
+South Korea
+
 2014-07-04 to 2014-08-04
 
 - Completed a 102-hour internship at StyleWiki Corporation, a South Korean
@@ -204,8 +230,10 @@ South Korea
 
 ## Academic Leadership and Service
 
-**Peer Mentor, Academic Excellence Support Program for the Computer Science Undergraduate Program**  
-Federal University of Ceara  
+**Peer Mentor, Academic Excellence Support Program for the Computer Science Undergraduate Program**
+
+Federal University of Ceara
+
 2010-03-08 to 2010-12-31
 
 - Supported academic and social integration of incoming Computer Science
@@ -215,8 +243,10 @@ Federal University of Ceara
 - Participated in meetings, academic events, integration activities, and
   discussions on undergraduate program improvement.
 
-**Student Representative and Organizer, Computer Science Student Association**  
-Federal University of Ceara  
+**Student Representative and Organizer, Computer Science Student Association**
+
+Federal University of Ceara
+
 Around 2010; exact dates to confirm
 
 - Represented Computer Science students in dialogue with faculty, department
@@ -239,44 +269,55 @@ dispositivos vestiveis para ensino a distancia de tarefas manuais`. XXIX
 Brazilian Symposium on Computers in Education (SBIE), Brazilian Congress on
 Computers in Education (CBIE), 2018. DOI: `10.5753/cbie.sbie.2018.1123`.
 
-## Awards and Recognitions
+Classification note: Tardigrade is treated as an academic publication from the
+master's period, not as part of the Supernova indie game development context.
 
-**Supernova projects: Carcara - Asas da Justica, Vetor, and Heroes Rush Tactics**
+## Awards, Presentations, and Project Recognitions
+
+**Supernova projects: Heroes Rush Tactics, Carcara - Asas da Justica, and Vetor**
+
 Team/project recognitions connected to Cecilia Lis Costa's reported co-founder
 role in Supernova:
 
 - Heroes Rush Tactics: reportedly presented at the Brazilian Symposium on Games
   and Digital Entertainment (SBGames), 2012.
-- Vetor: Winner, Best Educational Game Project, BIG Starter / Brazil's
-  Independent Games Festival, 2016.
-- Carcara - Asas da Justica: Finalist, Best Educational or Social Impact Game,
-  Brazil's Independent Games Festival, 2016.
-- Vetor: Selected for competitive federal funding, INOVApps Program, Brazilian
+- Carcara - Asas da Justica: selected for competitive federal funding,
+  INOVApps Program, Brazilian Ministry of Communications, 2014.
+- Vetor: selected for competitive federal funding, INOVApps Program, Brazilian
   Ministry of Communications, 2015.
-- Carcara - Asas da Justica: Selected for competitive federal funding, INOVApps
-  Program, Brazilian Ministry of Communications, 2014.
+- Vetor: winner, Best Educational Game Project, BIG Starter / Brazil's
+  Independent Games Festival, 2016.
+- Carcara - Asas da Justica: finalist, Best Educational or Social Impact Game,
+  Brazil's Independent Games Festival, 2016.
 
-Evidence note: these are currently recorded as Supernova project/team
-recognitions for Carcara and Vetor, plus a user-provided presentation record for
-Heroes Rush Tactics at SBGames 2012. Primary evidence for the Supernova
-co-founder role, individual contributions, and the Heroes Rush Tactics
+Evidence note: Carcara and Vetor recognitions are currently supported by a local
+source note and listed public references. Heroes Rush Tactics at SBGames 2012 is
+currently recorded from user-provided context. Primary evidence for the
+Supernova co-founder role, individual contributions, and the Heroes Rush Tactics
 presentation should be added before emphasizing them as individual awards or
 recognitions in an external CV.
 
 ## Technical Skills
 
-- Programming: C, C++, research software development, diagnostic routines.
-- Research areas: augmented reality, computer vision, image processing,
-  human-computer interaction, accessibility, interactive systems, hardware
-  diagnostics, ubiquitous computing, educational games, materials physics,
-  computational physics.
-- Systems and platforms: Linux-based development contexts, hardware validation,
-  augmented reality and wearable-device prototypes, game/platform-specific
-  engineering, engine implementation.
-- Research practice: prototype development, user-study support, experimental
-  analysis support, technical documentation, stakeholder presentations.
+- Programming and implementation: C, C++, Python, research software development,
+  diagnostic routines, prototype development, debugging, and testing.
+- Applied computing: augmented reality, computer vision, image processing,
+  computer graphics, interactive systems, human-computer interaction,
+  accessibility-oriented software, mobile and ubiquitous computing.
+- Game and platform engineering: indie educational game projects, professional
+  game feature development, platform-specific implementation, and engine
+  implementation.
+- Systems and hardware: Linux-based development contexts, hardware validation,
+  device diagnostics, automated validation, and compatibility maintenance.
+- Scientific and physics preparation: materials physics, computational physics,
+  numerical methods, atomic-structure modeling, and Python-based scientific
+  computation.
+- Research practice: experimental prototype development, user-study support,
+  analysis support, technical documentation, milestone coordination, and
+  stakeholder presentations.
 - Collaboration: academic research teams, multidisciplinary projects, industry
-  partner communication, international academic environments.
+  partner communication, international academic environments, mentoring, and
+  student representation.
 
 ## Languages
 
@@ -291,18 +332,18 @@ Remove this section before external submission.
 - Add contact details, location, links, and preferred CV header format.
 - Confirm exact Student Association dates.
 - Confirm King title history and any discloseable platform/engine details.
-- Confirm whether each target institution accepts IELTS Online and the 2025 test
-  date.
-- Add local PDF or formal citation capture for the Tardigrade publication.
-- Verify/archive public pages for publication and award references.
+- Add primary evidence for King employment before treating the entry as final.
 - Add primary evidence for the Supernova co-founder role and individual
-  contributions to Carcara, Vetor, and Heroes Rush Tactics if game experience
-  or recognitions will be emphasized.
+  contributions to Heroes Rush Tactics, Carcara - Asas da Justica, and Vetor if
+  game experience or recognitions will be emphasized.
 - Add evidence for Heroes Rush Tactics at SBGames 2012 if available, such as an
   event program, proceedings listing, archived page, or contemporaneous project
   material.
+- Add local PDF or formal citation capture for the Tardigrade publication.
+- Verify/archive public pages for publication and award references.
 - Decide whether to include historical publication name variants exactly as
   printed or with a name clarification note.
 - Add primary evidence for ARTRADE if available, especially because the current
   record is a local source note and the project was reportedly under NDA.
-- Add primary evidence for King employment before treating the entry as final.
+- Confirm whether each target institution accepts IELTS Online and the 2025 test
+  date.
