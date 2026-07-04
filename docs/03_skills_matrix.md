@@ -7,6 +7,7 @@ support CV drafting, motivation letters, and concise application portfolios.
 
 | Skill area | Evidence-backed examples | Strongest sources | Application relevance |
 | --- | --- | --- | --- |
+| Early physics and mathematics foundation | Incomplete IFCE Physics undergraduate study, including calculus, general physics, general chemistry, and analytical geometry/linear algebra | E031-E032 | Provides early physics preparation context, but should be presented as incomplete study |
 | Formal computer science foundation | Bachelor's Degree in Computing; completed coursework in calculus, linear algebra, discrete mathematics, algorithms, data structures, computer architecture, databases, artificial intelligence, theory of computation, operating systems, compilers, computer graphics, and human-machine interaction | E019-E020 | Establishes academic preparation for graduate study and technical R&D |
 | Graduate-level computer science coursework | Master's coursework in distributed systems, communication networks, data structures, mobile and wireless networks, performance analysis, mobile and ubiquitous computing | E021 | Supports advanced preparation despite the master's degree being incomplete |
 | Recent physics preparation | Materials Physics; Computational Physics: Introductory Course; Atomic Structure project | E024-E028 | Supports recent preparation for quantum technologies through materials physics, quantum/solid-state concepts, numerical methods, Python, and atomic-structure modeling |
@@ -24,6 +25,7 @@ support CV drafting, motivation letters, and concise application portfolios.
 | Scientific collaboration | Research projects with faculty, labs, multidisciplinary teams, and publication coauthors | E001-E006, E015-E018, P001-P002 | Useful for graduate research readiness |
 | Scientific publication | SBCUP and SBIE 2018 publications | E017, E022, P006-P007 | Supports academic communication and peer-reviewed research output |
 | International academic adaptability | Science Without Borders exchange in South Korea | E007-E009 | Supports ability to study and collaborate in international settings |
+| English proficiency | IELTS Academic overall band 7.5, CEFR C1 | E030 | Supports English-language graduate applications, subject to institution-specific validity rules |
 | Professional communication | Lenovo partner communication, Dell-facing ARTRADE presentations, student representation, mentoring | E005-E013, E018 | Relevant to project coordination, teamwork, and graduate cohort participation |
 | Leadership and service | Student Association; Academic Excellence Support Program | E010-E013 | Useful for fellowship/service narratives and academic community contribution |
 | Mentoring and student support | Academic Excellence Support Program | E012-E013 | Supports teaching-assistant, peer-support, and academic-service dimensions |

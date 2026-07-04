@@ -9,6 +9,7 @@ as stronger evidence is added.
 
 | Period | Experience | Institution / Context | Evidence status |
 | --- | --- | --- | --- |
+| 2007.1 to 2007.2; incomplete | Physics undergraduate study | IFCE, Fortaleza campus; Licenciatura em Fisica / translated as Bachelor's Degree in Physics | Original transcript and certified translation present; record shows abandonment/no diploma |
 | 2009.1 to 2014.2; completed January 2015 | Bachelor's Degree in Computing | Federal University of Ceara | Official translated completion declaration and transcript present |
 | Around 2010 | Computer Science Student Association | Federal University of Ceara, Computer Science undergraduate program | Local overview and scanned recommendation letter; exact dates need confirmation |
 | 2010-03-08 to 2010-12-31 | Academic Excellence Support Program for the Computer Science Undergraduate Program | Federal University of Ceara, Undergraduate Project Monitoring Program | Local overview and certificate image; original edital still to add |
@@ -26,6 +27,7 @@ as stronger evidence is added.
 | March 2018 to August 2020; enrollment discontinued | Master's Program in Computer Science | Federal University of Ceara, Graduate Program in Computer Science, field of research: Information Systems | Official translated graduate transcript present; degree not completed |
 | 2018-2019 | ARTRADE - Augmented Reality Training Arcade | LEAD, with Dell Technologies as industry partner | Source note present; project details limited by NDA and should be supported by additional primary evidence if available |
 | Approximately 2020-present, exact dates to confirm | Software development at King | Professional game development; initially game features, later platform-specific code and engine implementation | User-provided context; primary employment evidence still to add |
+| 2025-11-04 test; report dated 2025-11-08 | IELTS Academic English proof | IELTS Online | Test Report Form present; overall 7.5, CEFR C1 |
 | Spring 2026 | Freestanding physics coursework | Materials Physics at KTH; Computational Physics: Introductory Course at Malmo University | Official Ladok transcript extracts and course context PDFs present |
 
 ## Notes for Application Reuse

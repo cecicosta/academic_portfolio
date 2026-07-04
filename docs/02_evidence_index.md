@@ -13,6 +13,7 @@ repository, plus public links that have been checked.
 
 | Experience | Current support | Current status |
 | --- | --- | --- |
+| Incomplete Physics undergraduate study | Original IFCE transcript and certified translation | Confirmed incomplete/abandoned study with passed early physics/mathematics courses; no diploma |
 | Bachelor's Degree in Computing | Official translated completion declaration and transcript | Confirmed completed degree; transcript and declaration dates should both be preserved |
 | Master's Program in Computer Science | Official translated graduate transcript | Confirmed incomplete/discontinued graduate enrollment with completed coursework |
 | Student Association | Source note and scanned recommendation letter | Usable as a draft; public documentation and exact dates still missing |
@@ -26,6 +27,7 @@ repository, plus public links that have been checked.
 | Peer-reviewed publications | Publication overview source note; local PDF for AR/accessibility paper | Usable as a draft; Tardigrade publication page/PDF should be archived locally |
 | Game awards and recognitions | Awards overview source note | Usable as a draft with caveats; treat as project/team recognitions until individual role evidence is added |
 | Freestanding physics coursework | Official Ladok transcript extracts, course context PDFs, and computational physics project report | Confirmed completed coursework; useful as recent preparation, not a degree |
+| English proficiency | IELTS Academic Test Report Form | Confirmed IELTS Academic overall band 7.5, CEFR C1; institutions must verify acceptance/validity |
 | King professional experience | User-provided context note | Important professional context; primary employment evidence still needed |
 
 ## Local Evidence Files
@@ -61,6 +63,9 @@ repository, plus public links that have been checked.
 | E027 | `sources/source_notes/computational_physics_mau_course_context_2026.pdf` | Course context/source note | Computational Physics course purpose, Python/numerical methods focus, assignments, and project structure | Text extraction confirms numerical methods, Python, assignments, and project report |
 | E028 | `sources/coursework/computational_physics_atomic_structure_project_2026.pdf` | Coursework artifact | Atomic Structure project report for Computational Physics course | Text extraction confirms student name, Spring 2026, hand-in date 2026-05-22, and project topic |
 | E029 | `sources/source_notes/king_employment_user_context.md` | User-provided context note | King professional software development experience, approximate period, and role evolution | Evidence is self-reported; add primary employment evidence |
+| E030 | `sources/certificates/ielts_academic_test_report_form_2025.pdf` | IELTS Academic Test Report Form | English proficiency proof | Visual/PDF review confirms test date 2025-11-04, report date 2025-11-08, overall band 7.5, CEFR C1, Listening 8.0, Reading 8.5, Writing 6.5, Speaking 7.5 |
+| E031 | `sources/official_records/ifce_physics_incomplete_transcript_original_2024.pdf` | Original IFCE transcript PDF | Incomplete Physics undergraduate study, admission 2007/1, course status, passed courses | Text extraction confirms original Portuguese record; uses former legal name |
+| E032 | `sources/official_records/ifce_physics_incomplete_transcript_certified_translation_2025.pdf` | Certified translation | English translation of IFCE Physics transcript | Text extraction confirms certification and translated course/status details; uses former legal name |
 
 ## Public References To Capture
 
@@ -93,6 +98,8 @@ repository, plus public links that have been checked.
 - Archived copies or citation captures for game awards and public references.
 - Primary employment evidence for King, such as role history, CV export,
   employment verification, reference letter, or redacted HR record.
+- Check whether target institutions accept IELTS Online and the 2025 test date;
+  some programs may require a recent test or specific delivery method.
 - Original diploma image/PDF and language proof files, if intended for the
   application packet. Official translated bachelor and master academic records
   are now present.

@@ -23,6 +23,16 @@ official records before external submission.
 
 ## Education
 
+**IFCE - Fortaleza Campus, Brazil**  
+Incomplete undergraduate study in Physics  
+Admission: 2007/1; incomplete/no diploma
+
+- Completed early coursework in calculus, general physics, general chemistry,
+  analytical geometry and linear algebra, communication, history of education,
+  and instrumental English.
+- This was incomplete undergraduate study and should not be presented as a
+  completed degree.
+
 **Federal University of Ceara (UFC), Brazil**  
 Bachelor's Degree in Computing / Bachelor of Computing  
 2009.1 to 2014.2; program completion recorded on 2015-01-15; degree conferral
@@ -250,7 +260,8 @@ awards in an external CV.
 ## Languages
 
 - Portuguese: native or fluent; confirm preferred wording.
-- English: academic and professional working use; formal proof to add if needed.
+- English: IELTS Academic, overall band 7.5, CEFR C1. Test date: 2025-11-04.
+  Component scores: Listening 8.0, Reading 8.5, Writing 6.5, Speaking 7.5.
 
 ## Internal Review Notes
 
@@ -261,6 +272,8 @@ Remove this section before external submission.
 - Confirm exact Student Association dates.
 - Confirm exact King dates, title history, and any discloseable platform/engine
   details.
+- Confirm whether each target institution accepts IELTS Online and the 2025 test
+  date.
 - Add local PDF or formal citation capture for the Tardigrade publication.
 - Verify/archive public pages for publication and award references.
 - Add individual role evidence for Carcara and Vetor if game recognitions will
