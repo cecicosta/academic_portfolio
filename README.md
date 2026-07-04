@@ -28,6 +28,8 @@ fellowship, and professional applications.
 - [Science Without Borders - Korea](reports/international/science_without_borders_korea.md)
 - [Virtual Shooting Training System](reports/research/virtual_shooting_project.md)
 - [Traffic Monitoring in Video Sequences](reports/research/traffic_monitoring_video_sequences.md)
+- [Augmented Reality for Remote Teaching of Manual Tasks](reports/research/augmented_reality_manual_tasks_deaf_learners.md)
+- [ARTRADE - Augmented Reality Training Arcade](reports/research/artrade_augmented_reality_training_arcade.md)
 - [Lenovo Diagnostics](reports/industry/lenovo_diagnostics_ldiag.md)
 
 ## Evidence Policy

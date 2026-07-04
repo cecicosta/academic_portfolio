@@ -16,6 +16,8 @@ as stronger evidence is added.
 | 2014-03-25 to 2014-06-20 | Traffic Monitoring in Video Sequences | Federal University of Ceara research project | Scanned declaration and local overview |
 | 2014-07-04 to 2014-08-04 | StyleWiki internship | StyleWiki Corporation, South Korea | Certificate PDF confirms dates and 102 hours |
 | 2014-2020, reported in prior working timeline; exact participation dates still to confirm | Lenovo Diagnostics / LDiag | Federal University of Ceara, LSBD, Lenovo industrial R&D project | Local overview and scanned recommendation letter; FCPC report/manual still to add |
+| 2017 | Augmented Reality for Remote Teaching of Manual Tasks to Deaf and Hard-of-Hearing Learners | LEAD / State University of Ceara research context; connected to a master's dissertation and co-authored paper | Source note, dissertation PDF, and article PDF present; role details still need primary confirmation |
+| 2018-2019 | ARTRADE - Augmented Reality Training Arcade | LEAD, with Dell Technologies as industry partner | Source note present; project details limited by NDA and should be supported by additional primary evidence if available |
 
 ## Notes for Application Reuse
 

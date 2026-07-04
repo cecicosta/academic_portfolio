@@ -22,6 +22,26 @@ This repository is the single source of truth for generating:
 - personal statements;
 - concise supporting dossiers.
 
+## Long-Term Vision
+
+This repository is intended to become a comprehensive academic and professional
+knowledge base.
+
+The repository itself is not an application package. Instead, it serves as the
+authoritative source from which different deliverables may be generated,
+including:
+
+- master's applications;
+- PhD applications;
+- research statements;
+- professional CVs;
+- academic portfolios;
+- industry portfolios.
+
+The repository should prioritize maintainability, traceability, and evidence
+over presentation. Presentation should be handled in generated outputs, such as
+CVs, application portfolios, PDFs, or DOCX files.
+
 ## Portfolio Principles
 
 - Write in professional English with a clean academic tone.

@@ -19,6 +19,8 @@ repository, plus public links that have been checked.
 | Traffic Monitoring in Video Sequences | Source note and scanned official declaration | Usable as a draft; declaration needs OCR/manual review |
 | Lenovo Diagnostics / LDiag | Source note and scanned recommendation letter | Usable as a draft with caveats; FCPC report and Lenovo manual still missing from `sources/` |
 | Science Without Borders - South Korea | Source note, certificate images, StyleWiki internship certificate PDF | Usable as a draft; scholarship/enrollment/completion images need OCR/manual review |
+| Augmented Reality for Remote Teaching of Manual Tasks | Source note, dissertation PDF, and article PDF | Usable as a draft; publication/coauthorship is supported locally, but role details still rely on the source note |
+| ARTRADE - Augmented Reality Training Arcade | Source note | Usable as a draft with caveats; project was reportedly under NDA, so add primary role/project evidence if available |
 
 ## Local Evidence Files
 
@@ -38,6 +40,10 @@ repository, plus public links that have been checked.
 | E012 | `sources/source_notes/academic_excellence_support_program_overview.docx` | Local overview/source note | Academic Excellence Support Program context and duties | Text extracted successfully from original; original edital still to add |
 | E013 | `sources/certificates/academic_excellence_mentoring_certificate.png` | Certificate image | Academic Excellence mentoring participation | Needs OCR/manual review |
 | E014 | `sources/source_notes/science_without_borders_overview.docx` | Local overview/source note | Science Without Borders academic mobility context | Text extracted successfully from original; certificates still need OCR/manual review |
+| E015 | `sources/source_notes/augmented_reality_manual_tasks_deaf_learners_overview.docx` | Local overview/source note | 2017 augmented reality/accessibility project role and responsibilities | Text extracted successfully from original; role details need primary confirmation |
+| E016 | `sources/publications/thiago_araujo_macc_dissertation_2017.pdf` | Master's dissertation PDF | Research context for augmented reality, wearable devices, accessibility, and remote manual task instruction | Text extraction confirms title, institution, program, year, and research context |
+| E017 | `sources/publications/analise_interacao_surdos_realidade_aumentada_dispositivos_vestiveis.pdf` | Article PDF | Coauthored publication on augmented reality interaction for deaf learners using wearable devices | Text extraction confirms title, authorship, abstract, and experiment context; venue not visible in PDF |
+| E018 | `sources/source_notes/artrade_augmented_reality_training_arcade_overview.docx` | Local overview/source note | ARTRADE role, period, industry partner, and research/development responsibilities | Text extracted successfully from original; no primary/public project source added yet |
 
 ## Public References To Capture
 
@@ -57,6 +63,10 @@ repository, plus public links that have been checked.
   declarations.
 - Local copies or archived versions of the public Virtual Shooting references.
 - Local copies of the Lenovo FCPC annual report and Lenovo Diagnostics manual.
+- Primary ARTRADE evidence, such as a recommendation letter, project certificate,
+  contract excerpt, or non-confidential institutional record.
+- Publication venue or formal citation details for the augmented
+  reality/accessibility article.
 - Official transcript/diploma and language proof files, if intended for the
   application packet.
 
