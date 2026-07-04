@@ -14,6 +14,9 @@ This experience should be described carefully: it provides evidence of graduate
 admission and completed graduate-level coursework, but it is not a completed
 master's degree.
 
+The Tardigrade publication should be treated as an academic publication from the
+master's period, not as part of the Supernova indie game development context.
+
 ## Program Details
 
 - Institution: Federal University of Ceara

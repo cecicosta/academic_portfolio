@@ -11,6 +11,9 @@ portfolio to ubiquitous computing, educational games, augmented reality,
 accessibility, wearable computing, human-computer interaction, and
 technology-enhanced learning.
 
+Tardigrade should be treated as a master's-period academic publication, not as a
+Supernova indie game development project.
+
 ## Publications
 
 ### Evaluating Tardigrade: A Framework for the Development of Ubiquitous Card Games
@@ -48,6 +51,9 @@ Research areas:
 The source note describes the paper as an evaluation of the Tardigrade framework,
 which supports development of ubiquitous card games through practical
 experiments.
+
+Portfolio classification note: this publication belongs to the academic
+publications record and should not be grouped under Supernova.
 
 ### Analysis of Deaf Users' Interaction with an Augmented Reality Wearable Application
 

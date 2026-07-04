@@ -14,9 +14,10 @@ R&D, research software development, augmented reality, computer vision,
 interactive systems, accessibility-oriented software, and hardware diagnostics.
 Project experience includes university research, industry-partnered R&D,
 international academic mobility, peer-reviewed publications, educational game
-projects, professional game development, platform-specific engineering, and
-academic leadership. Recent freestanding physics coursework supports transition
-toward graduate study in quantum technologies.
+projects, indie game development co-founding, professional game development,
+platform-specific engineering, and academic leadership. Recent freestanding
+physics coursework supports transition toward graduate study in quantum
+technologies.
 
 This CV is compiled from the portfolio repository and should be reviewed against
 official records before external submission.
@@ -90,6 +91,24 @@ Spring 2026
   freestanding physics courses.
 - Evidence note: current repository evidence is user-provided context; add
   primary employment evidence before external submission.
+
+**Co-founder, Supernova indie game development team**
+2012-2016; exact continuity, role dates, and public evidence to confirm
+
+- Co-founded Supernova, an independent game development team.
+- Contributed to educational game projects including Carcara - Asas da Justica
+  and Vetor, and to Heroes Rush Tactics.
+- Heroes Rush Tactics was reportedly presented at the Brazilian Symposium on
+  Games and Digital Entertainment (SBGames) in 2012.
+- Supernova project recognitions included INOVApps Program selections for
+  Carcara - Asas da Justica in 2014 and Vetor in 2015.
+- Festival recognitions included Vetor winning Best Educational Game Project at
+  BIG Starter / Brazil's Independent Games Festival in 2016 and Carcara - Asas
+  da Justica being a finalist for Best Educational or Social Impact Game at
+  Brazil's Independent Games Festival in 2016.
+- Evidence note: current repository evidence combines a local awards source note
+  with user-provided Supernova role context; add primary role evidence before
+  external submission.
 
 ## Research and R&D Experience
 
@@ -222,25 +241,27 @@ Computers in Education (CBIE), 2018. DOI: `10.5753/cbie.sbie.2018.1123`.
 
 ## Awards and Recognitions
 
-**Vetor**  
-Winner, Best Educational Game Project, BIG Starter / Brazil's Independent Games
-Festival, 2016.
+**Supernova projects: Carcara - Asas da Justica, Vetor, and Heroes Rush Tactics**
+Team/project recognitions connected to Cecilia Lis Costa's reported co-founder
+role in Supernova:
 
-**Carcara - Asas da Justica**  
-Finalist, Best Educational or Social Impact Game, Brazil's Independent Games
-Festival, 2016.
+- Heroes Rush Tactics: reportedly presented at the Brazilian Symposium on Games
+  and Digital Entertainment (SBGames), 2012.
+- Vetor: Winner, Best Educational Game Project, BIG Starter / Brazil's
+  Independent Games Festival, 2016.
+- Carcara - Asas da Justica: Finalist, Best Educational or Social Impact Game,
+  Brazil's Independent Games Festival, 2016.
+- Vetor: Selected for competitive federal funding, INOVApps Program, Brazilian
+  Ministry of Communications, 2015.
+- Carcara - Asas da Justica: Selected for competitive federal funding, INOVApps
+  Program, Brazilian Ministry of Communications, 2014.
 
-**Vetor**  
-Selected for competitive federal funding, INOVApps Program, Brazilian Ministry
-of Communications, 2015.
-
-**Carcara - Asas da Justica**  
-Selected for competitive federal funding, INOVApps Program, Brazilian Ministry
-of Communications, 2014.
-
-Evidence note: these are currently recorded as project/team recognitions.
-Individual role evidence should be added before emphasizing them as individual
-awards in an external CV.
+Evidence note: these are currently recorded as Supernova project/team
+recognitions for Carcara and Vetor, plus a user-provided presentation record for
+Heroes Rush Tactics at SBGames 2012. Primary evidence for the Supernova
+co-founder role, individual contributions, and the Heroes Rush Tactics
+presentation should be added before emphasizing them as individual awards or
+recognitions in an external CV.
 
 ## Technical Skills
 
@@ -274,8 +295,12 @@ Remove this section before external submission.
   date.
 - Add local PDF or formal citation capture for the Tardigrade publication.
 - Verify/archive public pages for publication and award references.
-- Add individual role evidence for Carcara and Vetor if game recognitions will
-  be emphasized.
+- Add primary evidence for the Supernova co-founder role and individual
+  contributions to Carcara, Vetor, and Heroes Rush Tactics if game experience
+  or recognitions will be emphasized.
+- Add evidence for Heroes Rush Tactics at SBGames 2012 if available, such as an
+  event program, proceedings listing, archived page, or contemporaneous project
+  material.
 - Decide whether to include historical publication name variants exactly as
   printed or with a name clarification note.
 - Add primary evidence for ARTRADE if available, especially because the current

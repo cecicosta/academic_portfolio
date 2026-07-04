@@ -35,10 +35,11 @@ fellowship, and professional applications.
 - [Traffic Monitoring in Video Sequences](reports/research/traffic_monitoring_video_sequences.md)
 - [Augmented Reality for Remote Teaching of Manual Tasks](reports/research/augmented_reality_manual_tasks_deaf_learners.md)
 - [ARTRADE - Augmented Reality Training Arcade](reports/research/artrade_augmented_reality_training_arcade.md)
+- [Supernova Indie Game Development](reports/industry/supernova_indie_game_development.md)
 - [Lenovo Diagnostics](reports/industry/lenovo_diagnostics_ldiag.md)
 - [King Game Development](reports/industry/king_game_development.md)
 - [Peer-Reviewed Publications](reports/publications/peer_reviewed_publications.md)
-- [Game Awards and Recognitions](reports/awards/game_awards_and_recognitions.md)
+- [Supernova Game Projects, Awards, and Recognitions](reports/awards/game_awards_and_recognitions.md)
 
 ## Evidence Policy
 

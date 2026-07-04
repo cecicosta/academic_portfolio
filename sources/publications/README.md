@@ -12,7 +12,8 @@ references that still need formal citation capture.
 
 - `Avaliando o Tardigrade: um framework para o desenvolvimento de jogos de
   cartas ubiquos`, SBCUP / CSBC 2018, DOI listed in source note as
-  `10.5753/sbcup.2018.3299`.
+  `10.5753/sbcup.2018.3299`. Treat this as a master's-period academic
+  publication, not as part of the Supernova indie game development context.
 - `System Model for Shooting Training Based on Interactive Video,
   Three-Dimensional Computer Graphics and Laser Ray Capture`, SVR 2012,
   DOI `10.1109/SVR.2012.12`.

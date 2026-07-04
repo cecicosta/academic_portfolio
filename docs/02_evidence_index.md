@@ -24,8 +24,8 @@ repository, plus public links that have been checked.
 | Science Without Borders - South Korea | Source note, certificate images, StyleWiki internship certificate PDF | Usable as a draft; scholarship/enrollment/completion images need OCR/manual review |
 | Augmented Reality for Remote Teaching of Manual Tasks | Source note, dissertation PDF, and article PDF | Usable as a draft; publication/coauthorship is supported locally, but role details still rely on the source note |
 | ARTRADE - Augmented Reality Training Arcade | Source note | Usable as a draft with caveats; project was reportedly under NDA, so add primary role/project evidence if available |
-| Peer-reviewed publications | Publication overview source note; local PDF for AR/accessibility paper | Usable as a draft; Tardigrade publication page/PDF should be archived locally |
-| Game awards and recognitions | Awards overview source note | Usable as a draft with caveats; treat as project/team recognitions until individual role evidence is added |
+| Peer-reviewed publications | Publication overview source note; local PDF for AR/accessibility paper | Usable as a draft; Tardigrade remains a master's-period academic publication; Tardigrade publication page/PDF should be archived locally |
+| Supernova indie game development and project recognitions | Awards overview source note and user-provided Supernova role context | Usable as a draft with caveats; Carcara, Vetor, and Heroes Rush Tactics are grouped under the Supernova co-founder experience; documented recognitions currently cover Carcara and Vetor; Heroes Rush Tactics SBGames 2012 presentation is user-provided and pending evidence; primary role/project evidence still needed |
 | Freestanding physics coursework | Official Ladok transcript extracts, course context PDFs, and computational physics project report | Confirmed completed coursework; useful as recent preparation, not a degree |
 | English proficiency | IELTS Academic Test Report Form | Confirmed IELTS Academic overall band 7.5, CEFR C1; institutions must verify acceptance/validity |
 | King professional experience | User-provided context note | Important professional context; start year corrected to 2019; primary employment evidence still needed |
@@ -55,8 +55,8 @@ repository, plus public links that have been checked.
 | E019 | `sources/official_records/bachelor_computing_completion_declaration_ufc_2026.pdf` | Official translated completion declaration | Completion of Bachelor's Degree in Computing / Bachelor of Computing | Text extraction confirms completion statement, degree, and 19 January 2015 conferral date |
 | E020 | `sources/official_records/bachelor_computing_transcript_ufc_2026.pdf` | Official translated undergraduate transcript | Bachelor program dates, completion status, coursework, performance indices, contact hours, and student mobility | Text extraction confirms program completed, 2009.1 to 2014.2, completion date 15 January 2015, and coursework |
 | E021 | `sources/official_records/master_computer_science_transcript_ufc_2026.pdf` | Official translated graduate transcript | Master's Program in Computer Science enrollment, discontinued status, field of research, completed coursework, and final average grade | Text extraction confirms status as enrollment discontinued and reason as official discontinuation of studies; academic participation period corrected by user to 2018-2019 |
-| E022 | `sources/source_notes/publications_academic_portfolio_overview.docx` | Local overview/source note | Peer-reviewed publication list, venues, research areas, DOI links, and public reference links | Text extracted successfully from original; Tardigrade PDF/citation still to add locally |
-| E023 | `sources/source_notes/game_awards_recognitions_overview.docx` | Local overview/source note | Game project awards, recognitions, federal funding selections, and reference links | Text extracted successfully from original; individual role evidence and official archival captures still to add |
+| E022 | `sources/source_notes/publications_academic_portfolio_overview.docx` | Local overview/source note | Peer-reviewed publication list, venues, research areas, DOI links, and public reference links | Text extracted successfully from original; Tardigrade PDF/citation still to add locally; Tardigrade should not be grouped under Supernova |
+| E023 | `sources/source_notes/game_awards_recognitions_overview.docx` | Local overview/source note | Supernova-related game project awards, recognitions, federal funding selections, and reference links for Carcara and Vetor | Text extracted successfully from original; individual role evidence and official archival captures still to add; Heroes Rush Tactics evidence still to add |
 | E024 | `sources/official_records/materials_physics_kth_ladok_transcript_2026.pdf` | Official Ladok transcript extract | Completion of Materials Physics, 7.5 hp/ECTS, grade E, KTH Royal Institute of Technology | Text extraction confirms course, credits, grade, date 2026-05-26, and verification data |
 | E025 | `sources/official_records/computational_physics_mau_ladok_transcript_2026.pdf` | Official Ladok transcript extract | Completion of Computational Physics: Introductory Course, 7.5 hp/ECTS, grade G, Malmo University | Text extraction confirms course, credits, grade, date 2026-05-22, and verification data |
 | E026 | `sources/source_notes/materials_physics_kth_course_context_2026.pdf` | Course context/source note | Materials Physics course content, learning outcomes, assessment structure, and literature | Text extraction confirms quantum/materials topics and course structure |
@@ -66,6 +66,7 @@ repository, plus public links that have been checked.
 | E030 | `sources/certificates/ielts_academic_test_report_form_2025.pdf` | IELTS Academic Test Report Form | English proficiency proof | Visual/PDF review confirms test date 2025-11-04, report date 2025-11-08, overall band 7.5, CEFR C1, Listening 8.0, Reading 8.5, Writing 6.5, Speaking 7.5 |
 | E031 | `sources/official_records/ifce_physics_incomplete_transcript_original_2024.pdf` | Original IFCE transcript PDF | Incomplete Physics undergraduate study, admission 2007/1, course status, passed courses | Text extraction confirms original Portuguese record; uses former legal name |
 | E032 | `sources/official_records/ifce_physics_incomplete_transcript_certified_translation_2025.pdf` | Certified translation | English translation of IFCE Physics transcript | Text extraction confirms certification and translated course/status details; uses former legal name |
+| E033 | `sources/source_notes/supernova_indie_game_development_user_context.md` | User-provided context note | Supernova co-founder role, grouping of Carcara, Vetor, and Heroes Rush Tactics, Heroes Rush Tactics presentation at SBGames 2012, and exclusion of Tardigrade from Supernova context | Evidence is self-reported; add primary role/project/presentation evidence |
 
 ## Public References To Capture
 
@@ -78,7 +79,8 @@ repository, plus public links that have been checked.
 | P005 | Lenovo Diagnostics Linux Bootable User Guide, version 4.33 | Product documentation and diagnostic module scope | Mentioned in source draft; source file not yet present in repo |
 | P006 | SBC article page: `https://sol.sbc.org.br/index.php/sbcup/article/view/3299` and DOI `10.5753/sbcup.2018.3299` | Tardigrade publication | Listed in source note; verify/archive |
 | P007 | SBC article page: `https://sol.sbc.org.br/index.php/sbie/article/view/41519`, DOI `10.5753/cbie.sbie.2018.1123`, and UFC repository `https://repositorio.ufc.br/handle/riufc/36856` | Augmented reality/accessibility publication | Listed in source note; local article PDF present; verify/archive public pages |
-| P008 | Public references listed for Carcara and Vetor recognitions, including UOL, Baguete, Supernova Games, BIG Festival, Drops de Jogos, and Geracao Gamer pages | Game awards and recognitions | Listed in source note; verify/archive before final external use |
+| P008 | Public references listed for Carcara and Vetor recognitions, including UOL, Baguete, Supernova Games, BIG Festival, Drops de Jogos, and Geracao Gamer pages | Supernova game projects and team/project recognitions | Listed in source note; verify/archive before final external use |
+| P009 | SBGames 2012 program, proceedings, archive entry, or contemporaneous project page for Heroes Rush Tactics | Heroes Rush Tactics presentation at the Brazilian Symposium on Games and Digital Entertainment | User-provided context; source not yet located and may be difficult to recover due to age |
 
 ## Evidence Gaps
 
@@ -93,8 +95,12 @@ repository, plus public links that have been checked.
 - Publication venue or formal citation details for the augmented
   reality/accessibility article.
 - Local PDF or formal citation capture for the Tardigrade publication.
-- Primary evidence connecting individual role/contribution to Carcara and Vetor
-  recognitions, if these are to be emphasized in applications.
+- Primary evidence for the Supernova co-founder role and Cecilia Lis Costa's
+  individual contributions to Carcara, Vetor, and Heroes Rush Tactics, if these
+  are to be emphasized in applications.
+- Evidence for the Heroes Rush Tactics presentation at SBGames 2012, such as an
+  event program, proceedings record, archived website, project page, or
+  contemporaneous press/project material.
 - Archived copies or citation captures for game awards and public references.
 - Primary employment evidence for King, such as role history, CV export,
   employment verification, reference letter, or redacted HR record.

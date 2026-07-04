@@ -17,13 +17,10 @@ as stronger evidence is added.
 | 2013 second semester to 2014 first semester | Science Without Borders exchange in South Korea | Sungkyunkwan University language preparation and Soongsil University exchange studies | Local overview and certificate images |
 | 2014-03-25 to 2014-06-20 | Traffic Monitoring in Video Sequences | Federal University of Ceara research project | Scanned declaration and local overview |
 | 2014-07-04 to 2014-08-04 | StyleWiki internship | StyleWiki Corporation, South Korea | Certificate PDF confirms dates and 102 hours |
-| 2014 | Carcara - Asas da Justica selected for INOVApps funding | Educational serious game; Brazilian Ministry of Communications INOVApps Program | Source note present; public references listed but not archived |
-| 2015 | Vetor selected for INOVApps funding | Educational digital game; Brazilian Ministry of Communications INOVApps Program | Source note present; supporting documentation still to add |
-| 2016 | Vetor won Best Educational Game Project at BIG Starter | Brazil's Independent Games Festival / BIG Festival | Source note present; public references listed but not archived |
-| 2016 | Carcara - Asas da Justica finalist for Best Educational or Social Impact Game | Brazil's Independent Games Festival / BIG Festival | Source note present; public reference listed but not archived |
+| 2012-2016; exact continuity to confirm | Co-founder, Supernova indie game development team | Independent game development; Heroes Rush Tactics presented at SBGames 2012; Carcara - Asas da Justica and Vetor later received documented project recognitions | User-provided role/project context, awards source note, and public references listed; primary role/project evidence and archival captures still to add |
 | 2014-2016 | Lenovo Diagnostics / LDiag | Federal University of Ceara, LSBD, Lenovo industrial R&D project | Period confirmed by user; local overview and scanned recommendation letter present; FCPC report/manual still to add |
 | 2017 | Augmented Reality for Remote Teaching of Manual Tasks to Deaf and Hard-of-Hearing Learners | LEAD / State University of Ceara research context; connected to a master's dissertation and co-authored paper | Source note, dissertation PDF, and article PDF present; role details still need primary confirmation |
-| 2018 | Peer-reviewed publications in SBCUP and SBIE | Ubiquitous card games; augmented reality/accessibility for remote manual-task instruction | Source note present; AR article PDF present; Tardigrade PDF/citation capture still to add |
+| 2018 | Peer-reviewed publications in SBCUP and SBIE | Tardigrade master's-period academic publication; augmented reality/accessibility for remote manual-task instruction | Source note present; AR article PDF present; Tardigrade PDF/citation capture still to add |
 | 2018-2019; enrollment later discontinued | Master's Program in Computer Science | Federal University of Ceara, Graduate Program in Computer Science, field of research: Information Systems | Official translated graduate transcript present; degree not completed |
 | 2018-2019 | ARTRADE - Augmented Reality Training Arcade | LEAD, with Dell Technologies as industry partner | Source note present; project details limited by NDA and should be supported by additional primary evidence if available |
 | 2019-present | Software development at King | Professional game development; initially game features, later platform-specific code and engine implementation | User-provided context; primary employment evidence still to add |
@@ -39,6 +36,15 @@ as stronger evidence is added.
 - For industry-facing portfolios, Lenovo Diagnostics and Traffic Monitoring can
   support systems programming, applied computer vision, hardware validation, and
   R&D collaboration.
+- Supernova should be used as the parent context for Carcara - Asas da Justica,
+  Vetor, Heroes Rush Tactics, and the documented Carcara/Vetor team or project
+  recognitions. Tardigrade should remain separate as a master's-period academic
+  publication.
+- Heroes Rush Tactics is recorded as having been presented at the Brazilian
+  Symposium on Games and Digital Entertainment (SBGames) in 2012 based on
+  user-provided context. Preserve the record, but mark evidence as pending until
+  a program, proceedings entry, archive, or contemporaneous project page is
+  found.
 
 ## Review Notes
 
