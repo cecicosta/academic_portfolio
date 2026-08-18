@@ -1,6 +1,6 @@
 # Evidence Index
 
-Last updated: 2026-07-04
+Last updated: 2026-08-18
 
 This index maps portfolio claims to local evidence files. It also records where
 evidence is incomplete or still needs OCR/manual review.
@@ -15,7 +15,7 @@ repository, plus public links that have been checked.
 | --- | --- | --- |
 | Incomplete Physics undergraduate study | Original IFCE transcript and certified translation | Confirmed incomplete/abandoned study with passed early physics/mathematics courses; no diploma |
 | Bachelor's Degree in Computing | Official translated completion declaration and transcript | Confirmed completed degree; transcript and declaration dates should both be preserved |
-| Master's Program in Computer Science | Official translated graduate transcript and user-corrected period | Confirmed incomplete/discontinued graduate enrollment with completed coursework; academic participation corrected to 2018-2019 |
+| Master's Program in Computer Science | Official translated graduate transcript, signed advisor reference letter, and user-corrected period | Confirmed incomplete/discontinued graduate enrollment with completed coursework; academic participation corrected to 2018-2019; advisor letter supports academic/research context |
 | Student Association | Source note and scanned recommendation letter | Usable as a draft; public documentation and exact dates still missing |
 | Academic Excellence Support Program | Source note and certificate image | Usable as a draft; original `Edital 18/2009` still missing from `sources/` |
 | Virtual Shooting Training System | Source note, scanned recommendation letter, verified FUNCAP/UFC public pages, DOI to verify | Strongest current evidence set; OCR/manual letter review and publication capture still needed |
@@ -67,6 +67,7 @@ repository, plus public links that have been checked.
 | E031 | `sources/official_records/ifce_physics_incomplete_transcript_original_2024.pdf` | Original IFCE transcript PDF | Incomplete Physics undergraduate study, admission 2007/1, course status, passed courses | Text extraction confirms original Portuguese record; uses former legal name |
 | E032 | `sources/official_records/ifce_physics_incomplete_transcript_certified_translation_2025.pdf` | Certified translation | English translation of IFCE Physics transcript | Text extraction confirms certification and translated course/status details; uses former legal name |
 | E033 | `sources/source_notes/supernova_indie_game_development_user_context.md` | User-provided context note | Supernova co-founder role, grouping of Carcara, Vetor, and Heroes Rush Tactics, Heroes Rush Tactics presentation at SBGames 2012, and exclusion of Tardigrade from Supernova context | Evidence is self-reported; add primary role/project/presentation evidence |
+| E034 | `sources/declarations/recommendation_letter_windson_viana_master_computer_science_2026.pdf` | Digitally signed advisor reference letter | Master's Program in Computer Science academic/research context, advisor relationship, completed coursework context, Tardigrade research/publication context, and explanation of discontinuation due to international professional relocation | Newly added; review text extraction/OCR if needed before producing application packets |
 
 ## Public References To Capture
 

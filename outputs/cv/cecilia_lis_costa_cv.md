@@ -22,7 +22,6 @@ Freestanding course: Materials Physics
 Spring 2026
 
 - Completed 7.5 hp / ECTS.
-- Grade: E.
 - Covered crystal structures, electronic structures, lattice vibrations,
   semiconductors, magnetism, quantum mechanical models of materials, and
   atom-level approaches to materials properties.
@@ -32,7 +31,6 @@ Freestanding course: Computational Physics: Introductory Course
 Spring 2026
 
 - Completed 7.5 hp / ECTS.
-- Grade: G.
 - Coursework focused on numerical methods for modeling physical systems and
   implementation in Python.
 - Completed an Atomic Structure project involving Schrodinger-equation context,
@@ -46,7 +44,7 @@ Graduate coursework in Computer Science, field of research: Information Systems
 - Completed master's-level coursework in distributed systems, communication
   networks, data structures, mobile and wireless networks, performance analysis
   of computer systems, and mobile and ubiquitous computing.
-- Final average grade recorded in transcript: 7.45.
+- Advisor reference: [signed 2026 letter by Prof. Windson Viana](https://github.com/cecicosta/academic_portfolio/blob/main/sources/declarations/recommendation_letter_windson_viana_master_computer_science_2026.pdf).
 - Enrollment later discontinued; no master's degree awarded.
 
 **Federal University of Ceara (UFC), Brazil**
@@ -54,7 +52,6 @@ Bachelor's Degree in Computing / Bachelor of Computing
 2009.1 to 2014.2; completion recorded January 2015
 
 - Program completed.
-- Academic Performance Index, general: 7.152.
 - Relevant coursework included calculus, linear algebra, discrete mathematics,
   algorithms, data structures, computer architecture, databases, artificial
   intelligence, theory of computation, operating systems, compilers, computer
@@ -203,5 +200,4 @@ Source code available on GitHub.
 ## Languages
 
 - Portuguese: native.
-- English: IELTS Academic, overall band 7.5, CEFR C1. Test date: 2025-11-04.
-  Component scores: Listening 8.0, Reading 8.5, Writing 6.5, Speaking 7.5.
+- English: IELTS Academic, CEFR C1. Test date: 2025-11-04.

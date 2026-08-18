@@ -1,7 +1,7 @@
 # Master's Program in Computer Science - Incomplete
 
-Status: draft  
-Last updated: 2026-07-04
+Status: draft
+Last updated: 2026-08-18
 
 ## Summary
 
@@ -74,10 +74,13 @@ a completed master's degree.
 Local evidence:
 
 - E021: `sources/official_records/master_computer_science_transcript_ufc_2026.pdf`
+- E034: `sources/declarations/recommendation_letter_windson_viana_master_computer_science_2026.pdf`
 
 Evidence limitations:
 
 - The current evidence is a translated transcript issued on 4 July 2026.
+- A digitally signed 2026 advisor reference letter is present and can support
+  the academic/research context for application packets.
 - The 2018-2019 period is based on user-provided clarification and should be
   preserved over earlier working notes.
 - No thesis, dissertation proposal, qualifying examination, or language
