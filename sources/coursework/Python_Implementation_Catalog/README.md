@@ -1,0 +1,89 @@
+# Computational Physics Python Implementation Catalog
+
+This directory contains copied Python implementations from the `CompPhys` project, renamed with descriptive titles. The original files were not moved or edited.
+
+Exact duplicate hand-in copies were not repeated here. The duplicate aliases `Assignment2/assignment2_exercise4ab.py` and `Assignment2/assignment2_exercise4cd.py` are represented by the corresponding CCD display and interpolation scripts below.
+
+## Runtime notes
+
+Most scripts use `numpy` and `matplotlib`; several also use `scipy` or `sympy`.
+
+Some scripts expect companion data in the current working directory:
+
+- `assignment2_co2_year_mean_annotations.py` expects `co2.txt`.
+- `assignment2_ccd_zero_pixel_interpolation.py` expects `CCD.txt`.
+- `assignment2_steel_plate_radiated_power.py` expects `stalplat.txt`.
+- `assignment3_ball_throw_video_tracking.py` expects `ball_throw_vid_imgs/ball_throw_img_*.png`; those 17 frame images have been copied into this catalog.
+- `assignment2_heat_equation_relaxation_solver.py` prompts for a tolerance value before running.
+
+The data files `co2.txt`, `CCD.txt`, and `stalplat.txt` were not found under `CompPhys`, so they could not be copied here. Associated report plot images that could be matched reliably were copied into `plots/` and indexed below.
+
+## Implementations
+
+| New filename | Original source | Short description |
+| --- | --- | --- |
+| `assignment1_radioactive_decay_half_life.py` | `Assignment1/Assignment1_exercise3.py` | Plots radioactive decay sample data, fits the given decay model, and estimates the half-life from a root. |
+| `assignment1_radial_probability_normalization_roots.py` | `Assignment1/Assignment1_Exercise4.py` | Normalizes a radial probability function, plots it, and marks selected roots. |
+| `assignment2_co2_year_mean_annotations.py` | `Assignment2/assignment2_exercise3e.py` | Compares mean CO2 concentration for 2000 and 2025 and annotates both on the time-series plot. |
+| `assignment2_ccd_zero_pixel_interpolation.py` | `Assignment2/assignment2_exercise4c.py` | Reads a CCD matrix and replaces zero-valued artifact pixels with neighbor-based interpolated values. |
+| `assignment2_steel_plate_radiated_power.py` | `Assignment2/assignment2_exercise5.py` | Computes total radiated power from a steel plate temperature matrix using the Stefan-Boltzmann law. |
+| `assignment2_heat_equation_relaxation_solver.py` | `Assignment2/assignment2_exercise6.py` | Solves a 2D steady-state temperature problem by relaxation until a user-provided tolerance is reached. |
+| `assignment3_tensile_brinell_interpolation.py` | `Assignment3/assignment3_ex1.py` | Uses cubic interpolation to convert tensile fail limit values to Brinell hardness values. |
+| `assignment3_pendulum_length_for_one_second.py` | `Assignment3/assignment3_ex2d.py` | Uses a fitted pendulum power law to estimate the string length that gives a 1-second period. |
+| `assignment3_ball_throw_video_tracking.py` | `Assignment3/assignment3_ex3.py` | Tracks a thrown ball from video frame images using grayscale differencing and area-of-interest grouping. |
+| `assignment4_buoyancy_equilibrium_wooden_sphere.py` | `Assignment4/assignment4_ex1.py` | Plots buoyancy and weight forces for a wooden sphere and finds the submerged height at equilibrium. |
+| `assignment4_nuclear_total_charge_simpson.py` | `Assignment4/assignment4_ex3b.py` | Integrates the radial charge distribution with Simpson's rule to estimate total nuclear charge. |
+| `assignment5_second_order_forced_oscillator_phase_plot.py` | `Assignment5/ex1b.py` | Solves `y'' = sin(x) - y`, plots `y` and `y'`, and shows the phase curve. |
+| `assignment5_coupled_oscillator_ode_system.py` | `Assignment5/ex2.py` | Converts a coupled second-order oscillator system to first order and plots both displacement solutions. |
+| `assignment5_skydiver_parachute_velocity.py` | `Assignment5/ex3.py` | Models skydiver velocity after parachute deployment and compares it with terminal velocity. |
+| `assignment5_pendulum_small_angle_comparison.py` | `Assignment5/ex4.py` | Solves the nonlinear pendulum equation and compares it with the small-angle analytical approximation. |
+| `assignment5_projectile_drag_optimal_angle.py` | `Assignment5/ex5.py` | Simulates projectile motion with drag across launch angles to find the angle with maximum range. |
+| `assignment6_kepler_orbit_energy_angular_momentum.py` | `Assingment6/ex1b.py` | Extends the Kepler orbit simulation with gravitational energy and angular momentum calculations. |
+| `assignment6_rutherford_scattering_trajectories.py` | `Assingment6/ex2.py` | Simulates alpha-particle Rutherford scattering trajectories for different impact parameters. |
+| `assignment6_bi_po_decay_chain_ode.py` | `Assingment6/ex3.py` | Solves a coupled radioactive decay-chain model for bismuth-210 and polonium-210. |
+| `assignment8_ten_mass_normal_modes.py` | `Assignment8/ex3.py` | Computes normal modes for a ten-mass oscillator chain and plots selected modal motion. |
+| `assignment8_spring_potential_schrodinger_states.py` | `Assignment8/ex5.py` | Adapts the quantum-well solver to an oscillatory spring potential in the Schrodinger equation. |
+| `assignment9_monte_carlo_integral_estimator.py` | `Assignment9/ex1.py` | Estimates an integral using Monte Carlo sampling for several sample sizes. |
+| `assignment9_monte_carlo_solar_moment_of_inertia.py` | `Assignment9/ex2.py` | Uses Monte Carlo sampling inside a sphere to estimate a solar moment of inertia from a radial density model. |
+| `assignment9_rutherford_scattering_cross_section.py` | `Assignment9/ex3.py` | Compares analytical Rutherford scattering counts with numerical trajectory simulations. |
+| `atomic_hydrogenic_orbital_radial_functions.py` | `Project - Atomic Structure/ex1.py` | Plots hydrogenic radial orbitals from 1s through 3d for `Z = 1`. |
+| `atomic_hydrogenic_1s_orbitals_by_z.py` | `Project - Atomic Structure/ex2.py` | Plots the 1s radial orbital for several nuclear charges, `Z = 1, 2, 3, 4`. |
+| `atomic_radial_density_3s_3p_3d.py` | `Project - Atomic Structure/ex3.py` | Plots radial density functions for the 3s, 3p, and 3d states. |
+| `atomic_spherical_harmonics_orthogonality.py` | `Project - Atomic Structure/ex5.py` | Uses SymPy integration to verify orthogonality relations for spherical harmonics. |
+| `atomic_effective_potential_angular_momentum.py` | `Project - Atomic Structure/ex8.py` | Plots Coulomb plus angular-momentum effective potentials for s, p, d, and f electrons. |
+| `atomic_radial_integral_expectation_values.py` | `Project - Atomic Structure/ex16.py` | Calculates radial integrals and expectation values for hydrogenic radial functions, then plots them. |
+| `atomic_radial_schrodinger_coulomb_solver.py` | `Project - Atomic Structure/radial.py` | Solves the radial Schrodinger equation for a Coulomb potential on a linear radial grid. |
+| `atomic_radial_schrodinger_log_grid_solver.py` | `Project - Atomic Structure/radiallog.py` | Solves the radial Schrodinger equation for a Coulomb potential using a logarithmic grid. |
+| `atomic_radial_schrodinger_log_grid_integrator.py` | `Project - Atomic Structure/radiallog_integrate.py` | Integrates radial Schrodinger solutions on a logarithmic grid for targeted quantum numbers. |
+| `atomic_parametric_aluminum_radial_solver.py` | `Project - Atomic Structure/radiallog_param.py` | Uses a parameterized radial potential workflow to compute aluminum-related atomic states. |
+
+## Associated plot images
+
+The following images were copied from the assignment report folders and renamed to match the catalog examples.
+
+| Example | Plot image(s) |
+| --- | --- |
+| `assignment3_tensile_brinell_interpolation.py` | `plots/assignment3_tensile_brinell_interpolation.png` |
+| `assignment3_pendulum_length_for_one_second.py` | `plots/assignment3_pendulum_fit_and_one_second_length.png` |
+| `assignment3_ball_throw_video_tracking.py` | `plots/assignment3_ball_throw_video_tracking.png` |
+| `assignment4_buoyancy_equilibrium_wooden_sphere.py` | `plots/assignment4_buoyancy_equilibrium_wooden_sphere.png` |
+| `assignment5_second_order_forced_oscillator_phase_plot.py` | `plots/assignment5_second_order_forced_oscillator_phase_plot.png` |
+| `assignment5_coupled_oscillator_ode_system.py` | `plots/assignment5_coupled_oscillator_ode_system.png` |
+| `assignment5_skydiver_parachute_velocity.py` | `plots/assignment5_skydiver_parachute_velocity.png` |
+| `assignment5_pendulum_small_angle_comparison.py` | `plots/assignment5_pendulum_small_angle_comparison.png` |
+| `assignment5_projectile_drag_optimal_angle.py` | `plots/assignment5_projectile_drag_optimal_angle_v5.png`, `plots/assignment5_projectile_drag_optimal_angle_v10.png`, `plots/assignment5_projectile_drag_optimal_angle_v15.png`, `plots/assignment5_projectile_drag_optimal_angle_v150.png` |
+| `assignment6_kepler_orbit_energy_angular_momentum.py` | `plots/assignment6_kepler_orbit_energy_angular_momentum.png` |
+| `assignment6_rutherford_scattering_trajectories.py` | `plots/assignment6_rutherford_scattering_trajectories.png` |
+| `assignment6_bi_po_decay_chain_ode.py` | `plots/assignment6_bi_po_decay_chain_ode.png` |
+| `assignment8_ten_mass_normal_modes.py` | `plots/assignment8_ten_mass_normal_modes_01.png` through `plots/assignment8_ten_mass_normal_modes_06.png` |
+| `assignment8_spring_potential_schrodinger_states.py` | `plots/assignment8_spring_potential_schrodinger_states_potential.png`, plus `plots/assignment8_spring_potential_schrodinger_states_level_01.png` through `plots/assignment8_spring_potential_schrodinger_states_level_10.png` |
+| `assignment9_rutherford_scattering_cross_section.py` | `plots/assignment9_rutherford_scattering_cross_section.png` |
+| `atomic_hydrogenic_orbital_radial_functions.py` | `plots/atomic_hydrogenic_orbital_radial_functions.png` |
+| `atomic_hydrogenic_1s_orbitals_by_z.py` | `plots/atomic_hydrogenic_1s_orbitals_by_z.png` |
+| `atomic_radial_density_3s_3p_3d.py` | `plots/atomic_radial_density_3s_3p_3d.png` |
+| `atomic_spherical_harmonics_orthogonality.py` | `plots/atomic_spherical_harmonics_orthogonality_01.png` through `plots/atomic_spherical_harmonics_orthogonality_09.png` |
+| `atomic_effective_potential_angular_momentum.py` | `plots/atomic_effective_potential_angular_momentum.png` |
+| `atomic_radial_integral_expectation_values.py` | `plots/atomic_radial_integral_expectation_values_01.png` through `plots/atomic_radial_integral_expectation_values_06.png` |
+| `atomic_radial_schrodinger_coulomb_solver.py` | `plots/atomic_radial_schrodinger_coulomb_solver_1s.png`, `plots/atomic_radial_schrodinger_coulomb_solver_2s.png`, `plots/atomic_radial_schrodinger_coulomb_solver_3s.png`, `plots/atomic_radial_schrodinger_coulomb_solver_4s.png`, `plots/atomic_radial_schrodinger_coulomb_solver_6s.png`, `plots/atomic_radial_schrodinger_coulomb_solver_9s.png` |
+| `atomic_radial_schrodinger_log_grid_solver.py` | `plots/atomic_radial_schrodinger_log_grid_solver_p_orbitals.png`, `plots/atomic_radial_schrodinger_log_grid_solver_1s.png`, `plots/atomic_radial_schrodinger_log_grid_solver_2s.png`, `plots/atomic_radial_schrodinger_log_grid_solver_3s.png`, `plots/atomic_radial_schrodinger_log_grid_solver_4s.png`, `plots/atomic_radial_schrodinger_log_grid_solver_6s.png`, `plots/atomic_radial_schrodinger_log_grid_solver_9s.png` |
+| `atomic_parametric_aluminum_radial_solver.py` | `plots/atomic_parametric_aluminum_radial_solver_aluminum.png`, `plots/atomic_parametric_aluminum_radial_solver_lithium.png` |
